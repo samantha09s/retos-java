@@ -23,27 +23,6 @@ Este repositorio contiene mis avances y soluciones de los ejercicios propuestos 
 
 ---
 
-## 📑 Tabla de Contenidos
-
-- [🎯 Objetivos](#🎯-objetivos)
-- [📦 Estructura del Proyecto](#📦-estructura-del-proyecto)
-- [🚀 Ejecutar](#🚀-ejecutar)
-- [🧠 Aprendizajes](#🧠-aprendizajes)
-- [📄 Licencia](#📄-licencia)
-- [🤝 Conectemos](#🤝-conectemos)
-
----
-
-## 🎯 Objetivos
-
-- Aplicar **POO en Java** (clases, objetos, métodos, atributos y constructores).
-- Utilizar estructuras modernas como `record`.
-- Practicar el uso de **encapsulación**, `Optional`, `Scanner`, `ArrayList`, etc.
-- Desarrollar código limpio, documentado y profesional.
-- Subir proyectos con estructura clara a GitHub.
-
----
-
 ## 📦 Estructura del Proyecto
 
 ```plaintext
@@ -75,18 +54,7 @@ Este repositorio contiene mis avances y soluciones de los ejercicios propuestos 
 
 3. Ejecuta cualquier archivo `Principal.java` desde el reto correspondiente.
 
-4. ¡Explora los retos y analiza cada implementación con comentarios expertos!
-
----
-
-## 🧠 Aprendizajes
-
-- Diseño de clases y métodos reutilizables.
-- Implementación de lógica con estructuras condicionales y ciclos.
-- Buen uso de `Optional`, `Scanner`, `switch-case`, `toString`, `getters`.
-- Organización modular y profesional de código.
-- Uso de `record` como alternativa moderna y ligera.
-- Mejores prácticas en Git y GitHub.
+4. ¡Explora los retos y analiza cada implementación con comentarios!
 
 ---
 
@@ -112,8 +80,3 @@ Este proyecto fue desarrollado con fines educativos como parte del curso **Java 
 <p align="center">
   ✨ ¡Gracias por visitar mi repositorio! ✨  
 </p>
-```
-
----
-
-¿Quieres que prepare también la estructura inicial del repositorio con carpetas y archivos `README.md` internos por cada reto?
