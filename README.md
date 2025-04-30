@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Estado-En%20curso-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-17+-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/POO-Clases%20y%20Records-blue?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/samantha09s/retos-java-bedu-tecnolochicas?style=flat-square"/>
+  <img src="https://img.shields.io/github/last-commit/samantha09s/retos-java?style=flat-square"/>
 </p>
 
 <br/>
