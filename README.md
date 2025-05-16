@@ -23,26 +23,6 @@ Este repositorio contiene mis avances y soluciones de los ejercicios propuestos 
 
 ---
 
-## 📦 Estructura del Proyecto
-
-```plaintext
-├── src/
-│   ├── reto-1-registro-entradas/
-│   │   ├── Entrada.java
-│   │   ├── Entrada_Record.java
-│   │   └── Principal.java
-│   ├── reto-2-cajero-simple/
-│   │   └── CajeroAutomatico.java
-│   ├── reto-3-factura-optional/
-│   │   └── Factura.java
-│   └── reto-4-sistema-vuelos/
-│       ├── Vuelo.java
-│       ├── Pasajero.java
-│       └── Principal.java
-```
-
----
-
 ## 🚀 Ejecutar
 
 1. Clona el repositorio:
